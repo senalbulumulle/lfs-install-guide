@@ -1,2 +1,3 @@
 # lfs-install-guide
-Install Guide for LFS
+
+Welcome to this guide. This guide will show you how to compile and install and use LFS. 
